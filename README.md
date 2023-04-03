@@ -6,7 +6,7 @@
     
 - 🔭 I’m currently working on **Frontend Webdevelopment**
 
-- 🌱 I’m currently learning **Backend webdevelopment**
+- 🌱 I’m currently learning **Backend Webdevelopment**
 
 - 👯 I’m looking to collaborate on **Web 3.0**
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lalit-kumar-jangid-082001229" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkdin /></a>
+<a href="https://www.linkedin.com/in/lalit-kumar-jangid-082001229" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkdin /></a>
   </p>
   
   <p align="left">
