@@ -1,3 +1,4 @@
+![logo](https://github.com/lalitkumarjangid/lalitkumarjangid/blob/main/github-header-image%20(2).png)
 <h1 align="center">Hi 👋, I'm Lalit Kumar Jangid</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitkumarjangid&label=Profile%20views&color=0e75b6&style=flat" alt="lalitkumarjangid" /> </p>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
