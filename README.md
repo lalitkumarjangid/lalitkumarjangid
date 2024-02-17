@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Web 3.0**
 
-- 💬 Ask me about **Bootstrap5 ,Javascript**
+- 💬 Ask me about **Javascript , React Js, Express Js**
 
 - 🚀 Learning Never Stops 🚀
 
