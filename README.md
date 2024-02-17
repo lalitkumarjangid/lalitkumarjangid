@@ -16,7 +16,7 @@
 
 - 🚀 Learning Never Stops 🚀
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lalit-kumar-jangid-082001229" target="blank"><img alt="Linkedin" align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
 <br/>
@@ -29,7 +29,7 @@
 
   
 
-<h3> Web tech Stack </h3>
+<h3> Web tech Stack : </h3>
 <p align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
