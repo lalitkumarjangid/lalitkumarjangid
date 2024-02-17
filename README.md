@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lalit-kumar-jangid-082001229" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkdin /></a>
+<a href="https://www.linkedin.com/in/lalit-kumar-jangid-082001229" target="blank"><img alt="Linkedin" align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  /></a>
 <br/>
 
 
