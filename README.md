@@ -6,9 +6,9 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
     
-- 🔭 I’m currently working on **Frontend Webdevelopment**
+- 🔭 I’m currently working on **Frontend Web development**
 
-- 🌱 I’m currently learning **Backend Webdevelopment**
+- 🌱 I’m currently learning **Backend Web development**
 
 - 👯 I’m looking to collaborate on **Web 3.0**
 
