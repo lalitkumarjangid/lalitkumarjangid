@@ -183,18 +183,26 @@
 
 <hr />
 
-### **Thanks for checking out my GitHub Profile!** 🙏
+
+
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=lalitkumarjangid&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
+
+
+---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=lalitkumarjangid&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumarjangid&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+## **Thanks for checking out my GitHub Profile!** 🙏
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 
 ![](https://img.shields.io/github/followers/lalitkumarjangid?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
 
-
-<table>
-  <tr>
-<td><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitkumarjangid&show_icons=true&theme=dark&locale=en&layout=compact" alt="lalitkumarjangid" /></p></td>
-
-<td><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lalitkumarjangid&show_icons=true&theme=dark&locale=en" alt="lalitkumarjangid" /></p></td>
-  </tr>
-  </table>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lalitkumarjangid&theme=dark" alt="lalitkumarjangid" /></p>
