@@ -179,12 +179,20 @@
 
 
 
+
+
+
+
+
+
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=lalitkumarjangid&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=lalitkumarjangid&theme=highcontrast&hide_border=true&border_radius=8&card_width=800">
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lalitkumarjangid&show_icons=true&theme=highcontrast)
-
+<!-- GitHub Profile Summary Cards -->
+<p align="center">
+  <img width="800" height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lalitkumarjangid&theme=github_dark">
+</p>
 
 ---
 
@@ -192,7 +200,7 @@
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=lalitkumarjangid&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="220" src="https://github-readme-stats.vercel.app/api?username=lalitkumarjangid&show_icons=true&theme=highcontrast">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumarjangid&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
