@@ -84,7 +84,6 @@ I’m a self-taught **Full-Stack Web and Mobile Developer** from India. I enjoy 
 </p>
 
 
-
 ---
 
 ### 🎉 **Thanks for Visiting!**
