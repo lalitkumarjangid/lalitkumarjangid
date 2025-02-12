@@ -40,8 +40,10 @@ I’m a self-taught **Full-Stack Web and Mobile Developer** from India. I enjoy 
 </p>
 
 ---
+<div align="center">
 
 ### 🛠️ **Tech Stack**
+
 #### **Frontend**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -67,7 +69,7 @@ I’m a self-taught **Full-Stack Web and Mobile Developer** from India. I enjoy 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
----
+</div>
 
 ### 📊 **GitHub Stats**
 
