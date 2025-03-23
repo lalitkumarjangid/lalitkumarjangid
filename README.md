@@ -69,6 +69,7 @@ I’m a self-taught **Full-Stack Web and Mobile Developer** from India. I enjoy 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+
 </div>
 
 ### 📊 **GitHub Stats**
@@ -76,12 +77,12 @@ I’m a self-taught **Full-Stack Web and Mobile Developer** from India. I enjoy 
 <p align="center">
   <img width="800" height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lalitkumarjangid&theme=github_dark">
 </p>
+   <div align="center">
 
+</div> 
 <p align="center">
-<!--    <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=lalitkumarjangid&theme=highcontrast&hide_border=true&border_radius=8&card_width=800">
-</p>  -->
-<!--   <img width="400" height="220" src="https://github-readme-stats.vercel.app/api?username=lalitkumarjangid&show_icons=true&theme=highcontrast"> -->
+
+<img width="400" height="250" src="https://streak-stats.demolab.com?user=lalitkumarjangid&theme=vision-friendly-dark"> 
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumarjangid&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 
