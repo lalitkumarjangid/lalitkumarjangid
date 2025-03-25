@@ -82,7 +82,7 @@ I’m a self-taught **Full-Stack Web and Mobile Developer** from India. I enjoy 
 </div> 
 <p align="center">
 
-<img width="400" height="250" src="https://streak-stats.demolab.com?user=lalitkumarjangid&theme=vision-friendly-dark"> 
+
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lalitkumarjangid&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 
